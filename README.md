@@ -7,4 +7,5 @@ This project aims to develop a comprehensive big data system from start to finis
 
 Alpha Vantage provides financial data APIs catering to real-time and historical stock, forex, cryptocurrency, and technical indicators. Their API offers developers a comprehensive toolkit for accessing financial data and constructing applications. For this project, the focus will be on utilizing intraday data from the S&P500 index provided by Alpha Vantage. 
 
+#### Contributions to original repo - https://github.com/kaizen-ai/kaizenflow/tree/master/sorrentum_sandbox/spring2023/ml_projects/Issue24_Team5_Implement_sandbox_for_Alpha_Vantage 
 
